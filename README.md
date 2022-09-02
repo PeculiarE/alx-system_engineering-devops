@@ -1,1 +1,1 @@
-A repo for Shell basics
+A repo for Shell basics and permissions
